@@ -18,6 +18,3 @@ this is my first pwa
 * In order to test in your computer, you can install the extensions of web-server-for-chrome for chrome.
  
 
-
-> 参考地址：[https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/?hl=zh-cn#firebase]
-
